@@ -10,6 +10,6 @@
 using namespace std;
 void Sunflowers::main() {
     int num = 1010;
-    cout << num;
+    cout << num << endl;
     
 }

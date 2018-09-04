@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		31E3C816213CDB2800C59B43 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 31E3C815213CDB2800C59B43 /* main.cpp */; };
 		31E3C820213CDBE000C59B43 /* ccc18s2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 31E3C81E213CDBE000C59B43 /* ccc18s2.cpp */; };
+		31F1E44E213F1B8F000FDD25 /* ccc14s4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 31F1E44C213F1B8F000FDD25 /* ccc14s4.cpp */; };
+		31F1E451213F1D31000FDD25 /* ccc14s3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 31F1E44F213F1D31000FDD25 /* ccc14s3.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +30,10 @@
 		31E3C815213CDB2800C59B43 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		31E3C81E213CDBE000C59B43 /* ccc18s2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ccc18s2.cpp; sourceTree = "<group>"; };
 		31E3C81F213CDBE000C59B43 /* ccc18s2.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ccc18s2.hpp; sourceTree = "<group>"; };
+		31F1E44C213F1B8F000FDD25 /* ccc14s4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ccc14s4.cpp; sourceTree = "<group>"; };
+		31F1E44D213F1B8F000FDD25 /* ccc14s4.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ccc14s4.hpp; sourceTree = "<group>"; };
+		31F1E44F213F1D31000FDD25 /* ccc14s3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ccc14s3.cpp; sourceTree = "<group>"; };
+		31F1E450213F1D31000FDD25 /* ccc14s3.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ccc14s3.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +68,11 @@
 			children = (
 				31E3C815213CDB2800C59B43 /* main.cpp */,
 				31E3C81E213CDBE000C59B43 /* ccc18s2.cpp */,
+				31F1E44C213F1B8F000FDD25 /* ccc14s4.cpp */,
+				31F1E44D213F1B8F000FDD25 /* ccc14s4.hpp */,
 				31E3C81F213CDBE000C59B43 /* ccc18s2.hpp */,
+				31F1E44F213F1D31000FDD25 /* ccc14s3.cpp */,
+				31F1E450213F1D31000FDD25 /* ccc14s3.hpp */,
 			);
 			path = "Cpp Contests";
 			sourceTree = "<group>";
@@ -123,6 +133,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				31F1E451213F1D31000FDD25 /* ccc14s3.cpp in Sources */,
+				31F1E44E213F1B8F000FDD25 /* ccc14s4.cpp in Sources */,
 				31E3C816213CDB2800C59B43 /* main.cpp in Sources */,
 				31E3C820213CDBE000C59B43 /* ccc18s2.cpp in Sources */,
 			);
