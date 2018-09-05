@@ -1,21 +1,20 @@
 //
-//  ccc14s3.hpp
+//  ccc15s3.hpp
 //  Cpp Contests
 //
-//  Created by James Xu on 2018-09-04.
+//  Created by James Xu on 2018-09-05.
 //  Copyright © 2018 James Xu. All rights reserved.
 //
 
-#ifndef ccc14s3_hpp
-#define ccc14s3_hpp
+#ifndef ccc15s3_hpp
+#define ccc15s3_hpp
 
 #include <iostream>
-#include <stack>
 #include <vector>
 
-class Candy {
+class Airport {
 public:
     static void main();
 };
 
-#endif /* ccc14s3_hpp */
+#endif /* ccc15s3_hpp */
